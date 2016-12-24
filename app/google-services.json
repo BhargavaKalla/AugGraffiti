@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128765404256",
+    "project_id": "auggraffiti-4efbd"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128765404256:android:2b39e6249dfaa298",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.AugGraffiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128765404256-ti7phvtt6chfg8lq8r2iqt2lts7n9tbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.AugGraffiti",
+            "certificate_hash": "333B5DA2230773022FD124F2E77733C205C0037C"
+          }
+        },
+        {
+          "client_id": "128765404256-7otiu45fsf1qqb25foogalac6ij4lurn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2dvcsIcFP8UTz0C4V5D5cTg2WmesTW_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
